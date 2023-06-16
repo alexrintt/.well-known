@@ -1,0 +1,5 @@
+Contact: mailto:report@alexrintt.io
+Contact: https://t.me/alexrintt
+Encryption: https://alexrintt.io/.well-known/pgp.txt
+Preferred-Languages: en, es, pt
+Canonical: https://alexrintt.io/.well-known/security.txt
